@@ -1,8 +1,0 @@
-Task Description#4 
-●	Provide a faulty class definition (missing self in parameters). Let AI fix it
-
-
- 
-
-Expected Output#4
-●	Correct __init__() method and explanation
